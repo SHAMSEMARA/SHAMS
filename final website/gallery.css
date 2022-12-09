@@ -38,11 +38,25 @@ body{
     margin-left: 17%;
 }
 .links{
-
+    margin-top: 37%;
+    margin-left: 16%;
+    position: absolute;
 }
 .lst_ele{
-    padding: 10px;
     text-decoration: none;
     font-family:'Old Standard TT', serif;
     color:#78468A ;
+    font-size: 25px; ;
+}
+#sketch{
+    padding-left: 3%;
+}
+#collages{
+    padding-left: 9%;
+}
+#phto{
+    padding-left: 7.5%;
+}
+#ag_p{
+    padding-left: 4%;
 }
