@@ -32,3 +32,17 @@ body{
 .navi:hover{
     color: rgb(255, 255, 255);
 }
+.photo{
+    position:fixed;
+    margin-top: 20%;
+    margin-left: 17%;
+}
+.links{
+
+}
+.lst_ele{
+    padding: 10px;
+    text-decoration: none;
+    font-family:'Old Standard TT', serif;
+    color:#78468A ;
+}
