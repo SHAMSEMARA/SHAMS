@@ -48,6 +48,9 @@ body{
     color:#78468A ;
     font-size: 25px; ;
 }
+.list_ele:hover{
+    color:floralwhite;
+}
 #sketch{
     padding-left: 3%;
 }
