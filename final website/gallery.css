@@ -14,10 +14,11 @@ body{
 }
 .logo{
     position: absolute;
+    display:flex;
 
 }
 .navbar{
-    position: absolute;
+    
     font-family:'Old Standard TT', serif;
     color:  #78468A;
     text-align: right;
@@ -30,7 +31,7 @@ body{
     text-decoration: none;
 }
 .navi:hover{
-    color: rgb(255, 255, 255);
+    color: rgb(164, 157, 165);
 }
 .photo{
     position:fixed;
@@ -40,7 +41,9 @@ body{
 .links{
     margin-top: 37%;
     margin-left: 16%;
-    position: absolute;
+    display:inline-flex;
+    justify-content: space-between;
+    
 }
 .lst_ele{
     text-decoration: none;
@@ -48,18 +51,29 @@ body{
     color:#78468A ;
     font-size: 25px; ;
 }
-.list_ele:hover{
-    color:floralwhite;
-}
 #sketch{
     padding-left: 3%;
 }
+#sketch:hover{
+    color: floralwhite;
+}
 #collages{
-    padding-left: 9%;
+    padding-left: 12%;
+}
+#collages:hover{
+    color: floralwhite;
 }
 #phto{
-    padding-left: 7.5%;
+    margin-left: 10%;
+}
+
+#phto:hover{
+    color: floralwhite;
 }
 #ag_p{
-    padding-left: 4%;
+    margin-left: 7%;
+    text-align: center;
+}
+#ag_p:hover{
+    color: floralwhite;
 }

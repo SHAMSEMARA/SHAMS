@@ -1,25 +1,23 @@
-
 body{    
-    background-image: url("blog-2.png");
+
+    background-image: url("collages.png");
     background-size: 1550px 860px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-
 .navdiv{
     position: fixed;
     top: 0%;
     width: 100%;
     z-index: 100;
-    margin-top: 0%;
 }
 .logo{
     position: absolute;
 
 }
 .navbar{
-    margin-top: -23%;
+  
     font-family:'Old Standard TT', serif;
     color:  #78468A ;
     text-align: right;
@@ -35,25 +33,22 @@ body{
     text-decoration: none;
 }
 .navi:hover{
-    color:rgb(164, 157, 165);
+    color: rgb(164, 157, 165);
 }
-.my_photo{
-    position: fixed;
-    margin-right: 0%;
-    margin-left: 78%;
-    margin-top: 17%;
-    border-color: black;
-    border-style: solid;
-    border-width: thin;
-    
+.collages{
+    position:left;
+    padding-left: 240px;
+    padding-right: 0px;
+    padding-top: 55px;
+    padding-bottom: 0px;
 }
-.text{
+.Text-collage{
     font-family:'Old Standard TT', serif;
-    position: absolute;
-    color: #78468A ;
-    font-size: 35px;
-    margin-top: 20%;
-    padding-right: 25%;
-    margin-left: 5%;
-
+    color:  #78468A ;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 80px; 
 }
+
+       
+      
