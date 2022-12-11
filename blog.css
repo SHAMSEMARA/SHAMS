@@ -1,0 +1,59 @@
+
+body{    
+    background-image: url("blog-2.png");
+    background-size: 1550px 860px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navdiv{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+    z-index: 100;
+    margin-top: 0%;
+}
+.logo{
+    position: absolute;
+
+}
+.navbar{
+    margin-top: -23%;
+    font-family:'Old Standard TT', serif;
+    color:  #78468A ;
+    text-align: right;
+    font-size: 25px;
+    padding-left: 70%;
+    padding-right: 0%;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.navi{
+    padding: 5%;
+    text-decoration: none;
+}
+.navi:hover{
+    color:rgb(164, 157, 165);
+}
+.my_photo{
+    position: fixed;
+    margin-right: 0%;
+    margin-left: 78%;
+    margin-top: 17%;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+    
+}
+.text{
+    font-family:'Old Standard TT', serif;
+    position: absolute;
+    color: #78468A ;
+    font-size: 35px;
+    margin-top: 20%;
+    padding-right: 25%;
+    margin-left: 5%;
+
+}
